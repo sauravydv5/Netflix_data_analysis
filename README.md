@@ -1,9 +1,5 @@
-# Netflix_data_analysis
-This repository contains a dataset of Netflix titles, providing comprehensive details on various movies and TV shows available on the platform. The dataset includes 7,789 entries with information such as the title, director, cast, country of origin, release date, rating, duration, genre, and a brief description.
 
-Here's a concise description under 320 words:
-
-Netflix Titles Dataset
+# Netflix Titles Dataset
 This repository contains a dataset of Netflix titles, including 7,789 entries with detailed information on movies and TV shows available on the platform. The dataset features the following columns:
 
 Show_Id: Unique identifier for each title.
